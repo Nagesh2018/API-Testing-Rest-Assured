@@ -1,0 +1,122 @@
+{
+	"repeatFieldCurrentValues": {
+		"$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Object, System.Private.CoreLib]], System.Private.CoreLib"
+	},
+	"allowed": [],
+	"values": {
+		"ae04cb_PCTEeKdb84": "TestUser28",
+		"abtpyhAl2cz7lAeXQ": [
+			{
+				"otherTextRequired": "False",
+				"description": "",
+				"otherText": false,
+				"otherTextDescription": "",
+				"otherTextDefaultValue": "",
+				"id": "5b107eecee5622d66f75f749",
+				"value": "Firewater",
+				"selected": false,
+				"$type": "Core.Models.Record.ValueSelection, Core"
+			}
+		],
+		"aeQP7a4wcSO9Jf_0S": "1231231234",
+		"adNBKO0rolddx0G0Z": "${name1}",
+		"acqfuWe48BNdqc9DB": [
+			{
+				"otherTextRequired": "False",
+				"description": "",
+				"otherText": false,
+				"otherTextDescription": "",
+				"otherTextDefaultValue": "",
+				"id": "5b107cac148ff753c36b27f4",
+				"value": "401(k)",
+				"selected": false,
+				"$type": "Core.Models.Record.ValueSelection, Core"
+			}
+		],
+		"adnVqM6ODkn8w2etx": 560001,
+		"aeK1GDUAuK291RlhK": "test@test.com",
+		"$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Object, System.Private.CoreLib]], System.Private.CoreLib",
+		"adTZBkccWtzeEEUKh": {
+			"otherTextRequired": "False",
+			"description": "",
+			"otherText": false,
+			"otherTextDescription": "",
+			"otherTextDefaultValue": "",
+			"id": "5b107ad2dcc66fd41358d382",
+			"value": "Engineering",
+			"selected": false,
+			"$type": "Core.Models.Record.ValueSelection, Core"
+		},
+		"abZtK4gzLmAd3MTzA": {
+			"otherTextRequired": "False",
+			"description": "",
+			"otherText": false,
+			"otherTextDescription": "",
+			"otherTextDefaultValue": "",
+			"id": "5b107e44e1483438d63f3ac1",
+			"value": "New York",
+			"selected": false,
+			"$type": "Core.Models.Record.ValueSelection, Core"
+		},
+		"ae6STyb9vbaecrpSC": "Bangalore",
+		"adh7y_VdVcR8dpQZp": "TestUser28",
+		"acCmcIfWkTmdRzp5g": 240,
+		"ad9cY87qq2B8XQJmR": {
+			"otherTextRequired": "False",
+			"description": "",
+			"otherText": false,
+			"otherTextDescription": "",
+			"otherTextDefaultValue": "",
+			"id": "5b107b4f4e041708fb7f00a5",
+			"value": "Intern",
+			"selected": false,
+			"$type": "Core.Models.Record.ValueSelection, Core"
+		},
+		"aaw_1riQy3Zcfk8rf": "2020-01-15T00:00:00.000Z"
+	},
+	"referencedByIds": [],
+	"isHangfireCreatedAndUnpersisted": false,
+	"applicationRevision": 0,
+	"sessionTimeSpent": 0,
+	"totalTimeSpent": 0,
+	"actionsExecuted": {
+		"5da4933d4cc9592490101242": true,
+		"$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Object, System.Private.CoreLib]], System.Private.CoreLib"
+	},
+	"disabled": false,
+	"id": "${randAlphabetic}",
+	"locked": false,
+	"referencedRecordIds": [],
+	"trackingId": 0,
+	"visualizations": {
+		"$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Collections.Generic.List`1[[Core.Models.Record.VisualizationData, Core]], System.Private.CoreLib]], System.Private.CoreLib"
+	},
+	"comments": {
+		"$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Collections.Generic.List`1[[Core.Models.Record.Comments, Core]], System.Private.CoreLib]], System.Private.CoreLib"
+	},
+	"infiniteLoopFlag": false,
+	"readOnly": false,
+	"isNew": true,
+	"$type": "Core.Models.Record.Record, Core",
+	"createdDate": "2020-01-13T09:39:07.6906015Z",
+	"modifiedDate": "0001-01-01T00:00:00",
+	"timeTrackingEnabled": true,
+	"applicationId": "ad3EgmX56uq8FC5SJ",
+	"coeditSession": {
+		"values": {
+			
+		},
+		"state": {
+			
+		},
+		"fields": {
+			
+		},
+		"editors": [
+			{
+				"name": "QAAnalyst",
+				"id": "aJvkfHK4M3ajoRafX"
+			}
+		]
+	}
+}
