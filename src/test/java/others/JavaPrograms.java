@@ -12,4 +12,8 @@ public class JavaPrograms {
 		randAlphabetic = RandomStringUtils.randomAlphabetic(alphaCount);
 		System.out.println("Rand Alphabetic "+ randAlphabetic);
 	}
+	
+	public void sampleTest() {
+		System.out.println("Test");
+	}
 }
